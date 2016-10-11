@@ -1,6 +1,4 @@
-package Aufgabe9;
-
-import java.util.Arrays;
+package Aufgabe09;
 
 /**
  * Name: Christoph Stach

@@ -1,4 +1,4 @@
-package Aufgabe2;
+package Aufgabe02;
 
 /**
  * Name: Christoph Stach

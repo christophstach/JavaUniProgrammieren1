@@ -1,4 +1,4 @@
-package Aufgabe3;
+package Aufgabe03;
 
 import java.util.Scanner;
 

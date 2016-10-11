@@ -1,4 +1,4 @@
-package Aufgabe5;
+package Aufgabe05;
 
 /**
  * Created by Christoph Stach on 18.05.16.
